@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gonzaga Rugambwa
 - 👀 I’m interested in Technology, Finance and Social Networks.
-- 🌱 I’m currently learning software development.
+- 🌱 I’m currently studying a bachelors in software development.
 - 💞️ I’m looking to collaborate on various projects.
 - 📫 How to reach me +37254660901
 
